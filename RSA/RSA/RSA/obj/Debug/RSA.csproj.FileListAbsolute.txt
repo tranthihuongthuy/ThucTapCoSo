@@ -1,0 +1,7 @@
+D:\TestRSA\RSA\RSA\RSA\obj\Debug\RSA.csproj.CoreCompileInputs.cache
+D:\TestRSA\RSA\RSA\RSA\bin\Debug\RSA.exe.config
+D:\TestRSA\RSA\RSA\RSA\bin\Debug\RSA.exe
+D:\TestRSA\RSA\RSA\RSA\bin\Debug\RSA.pdb
+D:\TestRSA\RSA\RSA\RSA\obj\Debug\RSA.exe
+D:\TestRSA\RSA\RSA\RSA\obj\Debug\RSA.pdb
+D:\TestRSA\RSA\RSA\RSA\obj\Debug\RSA.csproj.AssemblyReference.cache
