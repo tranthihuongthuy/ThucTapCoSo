@@ -294,8 +294,8 @@ namespace RSA
             var taoKhoa = new TaoKhoa();
             var khoaCongKhaiRieng = taoKhoa.TaoKhoaTuFile(filePath);
 
-            Console.WriteLine("Khóa công khai: " + khoaCongKhaiRieng.PublicKey);
-            Console.WriteLine("Khóa riêng tư: " + khoaCongKhaiRieng.PrivateKey);
+            Console.WriteLine("Khóa công khai: " + taoKhoa.LayKhoaCongKhai());
+            Console.WriteLine("Khóa riêng tư: " + taoKhoa.LayKhoaRieng());
 
             Console.WriteLine("p: " + taoKhoa.GetP());
             Console.WriteLine("q: " + taoKhoa.GetQ());
